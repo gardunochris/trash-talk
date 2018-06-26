@@ -1,0 +1,15 @@
+.userInfo {
+ background-color:#333;
+ width: 100%;
+ color: white;
+ padding: 5px 0px 5px 20px;
+}
+
+
+.signinButton {
+
+}
+
+.username {
+	margin-right:10px;
+}

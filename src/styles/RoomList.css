@@ -1,0 +1,60 @@
+.roomNames {
+	display:block;
+	font-size: 18px;
+	padding-top:4px;
+	padding-bottom:4px;
+	cursor: pointer;
+
+}
+
+.roomNames:first-child {
+	margin-top:15px;
+}
+
+.blocChatTitle {
+	display:block;
+	font-size: 32px;
+}
+
+.blocChatRooms {
+	display:block;
+	font-size: 24px;
+	padding-top:30px;
+
+}
+
+.newRoomForm {
+	font-size:18px;
+}
+
+.roomEntryLabel {
+	display:block;
+	margin-top: 20px;
+}
+
+.roomEntry {
+	display:block;
+}
+
+.createRoom {
+	display:block;
+	margin-top:5px;
+}
+
+.roomcreate {
+	margin: 10px;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.remove-room-button {
+	cursor: pointer;
+}
